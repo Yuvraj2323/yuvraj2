@@ -1,0 +1,866 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.main-con{
+    background-color: white;
+    width: 100%;
+    height: 1000px;
+}
+.background-img{
+    background-image: url(bakgourn3.jpg);
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0px 0px 600px 0px;
+    float: left;
+    
+}
+.nev-bar{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    top: 0;
+    position: fixed;
+    overflow: hidden;
+} 
+.logo{
+    width: 80px;
+    height: 70px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+} 
+.heding{
+    color: black;
+    margin-left: 20px;
+    float: left;
+    margin-top: 23px;
+    cursor: pointer;
+}
+.heding:hover{
+    color: white;
+}
+ul{
+   color: white;
+ list-style: none;
+ float: right;
+ margin-right: 80px;
+ margin-top: 38px;
+}
+li{
+    color: white;
+    display: inline;
+    padding: 20px;
+    
+    
+}
+li:hover{
+    color: orange;
+}
+.active{
+    color: orange;
+}
+.heding2{
+    color: rgb(179, 59, 16);
+    float: left;
+    margin-top: -700px;
+    margin-left: 75px;
+    
+}
+.heding3{
+    color: white;
+    float: left;
+    margin-top: -650px;
+    margin-left: 75px;
+    font-size: 3vw;
+   text-align: justify;
+}
+.hed{
+    background-color: black;
+    width: 550px;
+    height: 200px;
+}
+.btn{
+    background-color: orangered;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+    float: left;
+    margin-top: -520px;
+    margin-left: 75px;
+}
+.btn:hover{
+    background-color: brown;
+}
+.heding4{
+    color: white;
+    margin-top: -510px;
+    float: left;
+    margin-left: 250px;
+    font-size: 1.5vw;
+
+}
+.heding4:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+.img{
+    width: 650px;
+    height: 1150px;
+    float: right;
+    margin-right: 80px;
+    margin-top: -830px;
+}
+.main-con2{
+    background-color: orangered;
+    width: 842px;
+    height: 160px;
+    float: left;
+    margin-top: -320px;
+
+}
+.img2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+   float: left;
+   margin-left: 140px;
+   margin-top: 40px;
+   border: 5px solid white;
+}
+.img3{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+   float: left;
+   margin-left: -12px;
+   margin-top: 40px;
+   border: 5px solid white;
+}
+.img4{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+   float: left;
+   margin-left: -12px;
+   margin-top: 40px;
+   border: 5px solid white;   
+}
+.img5{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+   float: left;
+   margin-left: -12px;
+   margin-top: 40px;
+   border: 5px solid white; 
+}
+.hed2{
+    float: left;
+    margin-left: 30px;
+    margin-top: 55px;
+
+}
+.icn{
+    float: left;
+    margin-left: 5px;
+    margin-top: 67px;
+
+}
+.patge{
+    margin-top: 65px;
+    margin-left: 20px;
+    float: left;
+}
+.main-con3{
+  background-color: white;
+  width: 100%;
+  height: 1000px;
+}
+.photos{
+    background-color: brown;
+    width: 520px;
+    height: 450px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.photos2{
+    width: 600px;
+    height: 490px;
+}
+.content{
+    
+    width: 520px;
+    height: 450px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 110px;
+
+
+
+}
+.heding5{
+    color: rgb(212, 192, 75);
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
+.heding6{
+    color: black;
+    float: left;
+    font-size: 50px;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.patge2{
+    float: left;
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.632);
+}
+.main-con4{
+    width: 100%;
+    height: 800px;
+    background-color: whitesmoke;
+}
+.heding10{
+    float: left;
+    color: rgb(212, 192, 75);
+    margin-left: 620px;
+    margin-top: 100px;
+    font-size: 25px;
+}
+.heding7{
+    float: left;
+    color: black;
+    margin-left: 520px;
+    margin-top: 2px;
+    font-size: 50px;
+    
+}
+.content2{
+    width: 410px;
+    height: 500px;
+    float: left;
+    
+    margin-top: 100px;
+    margin-left: -830px;
+    border-radius: 40px;
+    border: 2px solid orangered;
+}
+.bttn{
+    float: left;
+    margin-left: 25px;
+    background-color: orangered;
+    width: 350px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px ;
+    margin-top: 30px;
+    text-align: justify;
+    cursor: pointer;
+}
+.text{
+    margin-left: 25px;
+    color: white;
+    font-size: 20px;
+}
+.bttn2{
+    float: left;
+    margin-left: 25px;
+    background-color: white;
+    width: 350px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px ;
+    margin-top: 30px;
+    text-align: justify;
+    cursor: pointer;
+}
+.text2{
+    margin-left: 25px;
+    color: rgba(0, 0, 0, 0.774);
+    font-size: 20px;
+}
+.bttn2:hover{
+    background-color: orangered;
+}
+.main-con5{
+    width: 100%;
+    height: 800px;
+    background-color: white;
+}
+.sub-div{
+    float: left;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: rgb(212, 192, 75);
+    margin-left: 15px;
+    margin-top: 80px;
+}
+.sub-div2{
+    float: left;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background-color: rgb(212, 192, 75);
+    margin-left: 150px;
+    margin-top: 200px;
+}
+.photos3{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    border: 10px solid rgb(212, 192, 75);
+}
+.sub-div3{
+    float: left;
+    width: 550px;
+    height: 400px;
+    
+    margin-left: 180px;
+    margin-top: 230px;
+}
+.heding11{
+    color: rgb(212, 192, 75);
+    float: left;
+    font-size: 30px;
+}
+.heding12{
+   color: black;
+   float: left;
+   margin-top: 40px;
+   margin-left: -166px;
+   font-size: 50px;
+   font-family: 
+    sans-serif;
+}
+.patge4{
+    float: left;
+    margin-top: 55px;
+    font-size: 20px;
+    color: black;
+}
+
+.sub-div4{
+    background-color: rgb(212, 192, 75);
+    width: 120px;
+    height: 120px;
+    border-radius: 30px 60px 60px 0px;
+    float: left;
+    margin-top: 10px;
+}
+.sub-div5{
+    
+    width: 120px;
+    height: 100px;
+    background-color: rgb(212, 192, 75);
+    width: 120px;
+    height: 120px;
+    border-radius: 90% 90% 0px 0px;
+    float: left;
+    margin-top: 60px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.main-con6{
+    width: 100%;
+    background-color: whitesmoke;
+    height: 900px;
+}
+.heding13{
+
+    float: left;
+    margin-top: 100px;
+    margin-left: 650px;
+    font-size: 40px;
+    color: rgb(212, 192, 75);;
+}
+.heding14{
+    float: left;
+    margin-top: 160px;
+    margin-left: -290px;
+    font-size: 50px;
+}
+.subdiv{
+    width: 400px;
+    height: 500px;
+    float: left;
+    margin-top: 270px;
+    margin-left: -830px;
+    background-color: brown;
+    background-image: url(businessman-sitting-by-table-cafe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.subdiv2{
+
+    width: 400px;
+    height: 500px;
+    float: left;
+    margin-top: 270px;
+    margin-left: -400px;
+    background-color: brown;
+    background-image: url(businessman-sitting-by-table-cafe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.subdiv3{
+
+    width: 400px;
+    height: 500px;
+    float: left;
+    margin-top: 270px;
+    margin-left: 30px;
+    background-color: brown;
+    background-image: url(businessman-sitting-by-table-cafe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    
+}
+.photos4{
+    width: 400px;
+    height: 400px;
+}
+.img-div{
+    width: 150px;
+    height: 190px;
+    background-color: rgb(230, 73, 73);
+    float: left;
+
+    margin-top: px;
+    margin-left: 115px;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.log{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 32px;
+    margin-top: 20px;
+    border: 5px solid white;
+}
+.patge8{
+    float: left;
+    margin-left: 35px;
+    margin-top: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+.heding15{
+    color: white;
+    float: left;
+    margin-left: 28px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.img-div2{
+    width: 180px;
+    height: 190px;
+    background-color: rgb(230, 73, 73);
+    float: left;
+
+    margin-top: px;
+    margin-left: 115px;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.log2{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 47px;
+    margin-top: 20px;
+    border: 5px solid white;
+}
+.patge5{
+    float: left;
+    margin-left: 60px;
+    margin-top: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: white;   
+}
+.heding16{
+    color: white;
+    float: left;
+    margin-left: 22px;
+    font-family: sans-serif;
+    font-size: 30px;   
+}
+.img-div3{
+    width: 210px;
+    height: 190px;
+    background-color: rgb(230, 73, 73);
+    float: left;
+
+    margin-top: px;
+    margin-left: 100px;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.log3{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    border: 5px solid white;   
+}
+.patge6{
+ 
+    float: left;
+    margin-left: 60px;
+    margin-top: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+.point{
+    float: left;
+    margin-top: 250px;
+    margin-left: -230px;
+}
+.icn2{
+    float: left;
+    margin-top: 260px;
+    padding: 2px;
+    margin-left: -160px;
+}
+.icn3{
+    float: left;
+    margin-top: 260px;
+    padding: 2px;
+    margin-left: -135px;   
+}
+.icn4{
+    float: left;
+    margin-top: 260px;
+    padding: 2px;
+    margin-left: -108px;   
+}
+.icn5
+{
+    float: left;
+    margin-top: 260px;
+    padding: 2px;
+    margin-left: -81px;    
+}
+.icn6{
+    float: left;
+    margin-top: 260px;
+    padding: 2px;
+    margin-left: -52px; 
+}
+.patge7{
+    float: left;
+    margin-top: 120px;
+    margin-left: 30px;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.647);
+}
+.point2{
+   float: left;
+   margin-top: 110px;
+   margin-left: -230px; 
+}
+.icn7{
+    float: left;
+    margin-top: 122px;
+    margin-left: -160px;
+}
+.icn8{
+    float: left;
+    margin-top: 122px;
+    margin-left: -132px;
+}
+.icn9{
+    float: left;
+    margin-top: 122px;
+    margin-left: -102px;
+}
+.icn10{
+    float: left;
+    margin-top: 122px;
+    margin-left: -72px;
+}
+.icn11{
+    float: left;
+    margin-top: 122px;
+    margin-left: -42px;
+}
+.patge9{
+    float: left;
+    margin-top: 135px;
+    margin-left: -80px;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.647);
+    text-align: ;
+    width: 600px;
+}
+.point3{
+    float: left;
+    margin-top: 110px;
+    margin-left: -243px;
+}
+.icn12{
+    float: left;
+    margin-top: 122px;
+    margin-left: -180px;
+}
+.icn13{
+    float: left;
+    margin-top: 122px;
+    margin-left: -150px;
+}
+.icn14{
+    float: left;
+    margin-top: 122px;
+    margin-left: -120px;
+}
+.icn15{
+    float: left;
+    margin-top: 122px;
+    margin-left: -90px;
+}
+.icn16{
+    float: left;
+    margin-top: 122px;
+    margin-left: -60px;
+}
+.patge10{
+    float: left;
+    margin-top: 135px;
+    margin-left: -66px;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.647);
+    text-align: ;
+    width: 600px;
+}
+.main-con7{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(229, 72, 24);
+   
+}
+.form{
+    float: left;
+    width: 550px;
+    height: 450px;
+    margin-top: 100px;
+    border-radius: 20px;
+    margin-left: 150px;
+    background-color: white;
+}
+.fromheding{
+    float: left;
+    margin-top: 30px;
+    margin-left: 45px;
+    font-size: 55px;
+    text-align: justify;
+}
+.input-tage{
+    float: left;
+    width: 400px;
+    height: 40px;
+    margin-left: 60px;
+    margin-top: 40px;
+    border-radius: 20px;
+   border: 1px solid black;
+   font-size: 20px;
+   padding: 10px;
+}
+.input-tage:hover{
+  border: 1px solid orangered;
+}
+.bttn3{
+    float: left;
+    background-color: orangered;
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    margin-left: 100px;
+    border: 1px solid white;
+    
+font-size: 20px;
+font-family: sans-serif;
+
+}
+.bttn3:hover{
+    background-color: brown;
+}
+.form2{
+    width: 500px;
+    height: 500px;
+    float: left;
+    
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.ftage{
+    float: left;
+    margin-top: 40px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(226, 196, 25);
+}
+.ftage2{
+    float: left;
+    margin-top: 75px;
+    margin-left: -242px;
+    font-size: 40px;
+    font-family: Arial Impact, 'Arial Narrow Bold';
+}
+.fromicn{
+    float: left;
+    margin-top: 140px;
+    margin-left:  -242px;
+    color: white;
+}
+.ftage3{
+    float: left;
+    margin-top: 70px;
+    margin-left: 35px;
+    font-size: 30px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.ftage4{
+    float: left;
+    margin-top: 15px;
+    margin-left: px;
+    font-size: 30px;
+    color: white;
+}
+.ftage4:hover{
+  color: brown;
+}
+.ftage5{
+    float: left;
+    margin-top: 60px;
+    margin-left: -170px;
+    font-size: 30px;
+    color: white;
+}
+.ftage5:hover{
+    color: brown;
+  }
+  .ftage6{
+    float: left;
+    margin-top: 150px;
+    margin-left: -255px;
+    font-size: 30px;
+    color: white;
+  }
+.btn6{
+    width: 35px;
+    height: 35px;
+   
+    border-radius: 50%;
+    border: 1px  white;
+    float: left;
+    margin-top: 200px;
+    margin-left: -253px;
+    cursor: pointer;
+   transition: 0.10 ease;
+   transition: all 0.5s;
+   background-color: black;
+}
+.btn6:hover{
+   background-color: brown;
+}
+.icccn{
+    margin-left: 1px;
+    margin-top: 2px;
+    color: white;
+    cursor: pointer;
+}
+.btn7{
+    width: 35px;
+    height: 35px;
+    transition: all 0.5s;
+   background-color: black;
+
+    border-radius: 50%;
+    border: 1px  white;
+    float: left;
+    margin-top: 200px;
+    margin-left: -200px;
+    cursor: pointer;
+    transition: 0.10 ease;
+}
+.btn7:hover{
+    background-color: brown;
+ }
+ .btn8{
+    width: 35px;
+    height: 35px;
+    transition: all 0.5s;
+   background-color: black;
+
+    border-radius: 50%;
+    border: 1px  white;
+    float: left;
+    margin-top: 200px;
+    margin-left: -147px;
+    cursor: pointer;
+    transition: 0.10 ease;
+ }
+ .btn8:hover{
+    background-color: brown;
+ }
+ .btn9{
+    width: 35px;
+    height: 35px;
+    transition: all 0.5s;
+   background-color: black;
+
+    border-radius: 50%;
+    border: 1px  white;
+    float: left;
+    margin-top: 200px;
+    margin-left: -93px;
+    cursor: pointer;
+    transition: 0.10 ease;
+ }
+ .btn9:hover{
+    background-color: brown;
+ }
+ .fromheding3{
+    float: left;
+    margin-top: 160px;
+    font-size: 20px;
+    color: white;
+ }
+ .fromheding4{
+    float: left;
+    margin-top: 198px;
+    font-size: 20px;
+    color: white;
+    margin-left: -290px;
+    color: brown;
+    font-family: monospace;
+ }
+ 
